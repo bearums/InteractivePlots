@@ -2,7 +2,7 @@ This is an interactive tool to explore the semi-empirical mass formula.
 
 Parameters of an equation are varied interactively, showing the results as a heatmap. 
 
-##What is the semi-empicial mass formula?
+## What is the semi-empicial mass formula?
 
 
 The structure of nuclei is dependant on several physical phenomena for which a comprehensive physical model is difficult to produce. However, we can employ semi-empirical arguments to gain understanding of nuclear structure. For example, it would be reasonable to assume that the binding energy of a nucleus is proportional to the volume ( or equivelently the number of nucleons, A).
